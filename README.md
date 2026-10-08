@@ -46,6 +46,21 @@ The following screenshots demonstrate the major features of the Library Manageme
 ### Logout
 
 ![Logout](screenshots/logout.png)
+---
+
+## Author
+
+**Aarti Kumari**
+
+B.Tech | Computer Science Engineering
+
+GitHub: [Aartikumari635](https://github.com/Aartikumari635)
+
+---
+
+## Conclusion
+
+This Library Management System provides a simple and efficient way to manage books, students, book issuance, and returns using Java Swing and MySQL.
 
 ---
 
