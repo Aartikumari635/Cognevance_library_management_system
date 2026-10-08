@@ -1,3 +1,11 @@
+\# Cognevance\_library\_management\_system
+
+
+
+Java Swing based Library Management System using MySQL
+
+
+
 \---
 
 
@@ -127,6 +135,10 @@ library\_management\_ system/
 │   └── logout.png
 
 ├── src/
+
+├── build.xml
+
+├── manifest.mf
 
 └── README.md
 
