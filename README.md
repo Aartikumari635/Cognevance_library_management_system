@@ -39,13 +39,15 @@ The following screenshots demonstrate the major features of the Library Manageme
 
 ![Book Management](screenshots/book-management.png)
 
+### Logout
+
+![Logout](screenshots/logout.png)
+
 ### Database
 
 ![Database](screenshots/database.png)
 
-### Logout
 
-![Logout](screenshots/logout.png)
 ---
 
 ## Author
@@ -80,8 +82,8 @@ library_management_system/
 │   ├── issue-book.png
 │   ├── return-book.png
 │   ├── book-management.png
-│   ├── database.png
-│   └── logout.png
+│   ├── logout.png
+│   └── database.png
 ├── src/
 ├── build.xml
 ├── manifest.mf
