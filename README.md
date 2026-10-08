@@ -10,13 +10,14 @@ Java Swing based Library Management System using MySQL
 
 The following screenshots demonstrate the major features of the Library Management System.
 
+### Home
+
+![Home](screenshots/home.png)
+
 ### Login
 
 ![Login](screenshots/login.png)
 
-### Home
-
-![Home](screenshots/home.png)
 
 ### Add Book
 
@@ -57,8 +58,8 @@ library_management_system/
 ├── docs/
 │   └── PROJECT_DOCUMENTATION.md
 ├── screenshots/
-│   ├── login.png
 │   ├── home.png
+│   ├── login.png
 │   ├── add-book.png
 │   ├── student-registration.png
 │   ├── issue-book.png
