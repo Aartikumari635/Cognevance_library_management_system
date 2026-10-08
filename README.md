@@ -1,7 +1,3 @@
-# Cognevance\_library\_management\_system
-
-Java Swing based Library Management System using MySQL
-
 \---
 
 
